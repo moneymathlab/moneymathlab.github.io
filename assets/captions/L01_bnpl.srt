@@ -1,0 +1,704 @@
+1
+00:00:00,000 --> 00:00:02,807
+This TV costs six hundred dollars.
+
+2
+00:00:02,807 --> 00:00:05,874
+Split into four payments, it's one hundred fifty.
+
+3
+00:00:05,874 --> 00:00:07,363
+Zero interest.
+
+4
+00:00:08,133 --> 00:00:12,052
+So why did nearly half of buy-now-pay-later users
+
+5
+00:00:12,052 --> 00:00:15,041
+pay late at least once last year?
+
+6
+00:00:15,811 --> 00:00:18,186
+In the next eight minutes, I'll run the
+
+7
+00:00:18,186 --> 00:00:21,534
+real numbers: how pay-in-four works, what stacking does
+
+8
+00:00:21,534 --> 00:00:24,092
+to one paycheck, what a missed payment can
+
+9
+00:00:24,092 --> 00:00:26,953
+trigger, and what happens when the balance ends
+
+10
+00:00:26,953 --> 00:00:28,491
+up on a credit card.
+
+11
+00:00:28,491 --> 00:00:30,820
+And at the end, a three-question test you
+
+12
+00:00:30,820 --> 00:00:33,157
+can run at checkout in ten seconds.
+
+13
+00:00:35,727 --> 00:00:40,879
+Most buy-now-pay-later plans at checkout follow the same pattern.
+
+14
+00:00:40,879 --> 00:00:45,451
+You pay twenty-five percent today, then three
+
+15
+00:00:45,451 --> 00:00:49,834
+equal payments, usually every two weeks.
+
+16
+00:00:49,834 --> 00:00:54,898
+Six hundred dollars becomes one-fifty today, one-fifty
+
+17
+00:00:54,898 --> 00:00:58,368
+in two weeks, one-fifty in four weeks
+
+18
+00:00:58,368 --> 00:01:01,250
+and one-fifty in six weeks.
+
+19
+00:01:02,020 --> 00:01:04,865
+If every payment goes through on time, these
+
+20
+00:01:04,865 --> 00:01:08,611
+short pay-in-four plans typically charge no interest.
+
+21
+00:01:08,611 --> 00:01:10,786
+Longer plans that run for months are
+
+22
+00:01:10,786 --> 00:01:13,384
+different: some of them do charge interest,
+
+23
+00:01:13,384 --> 00:01:15,788
+and the rate is shown at checkout.
+
+24
+00:01:16,558 --> 00:01:18,413
+This holiday season, a lot of
+
+25
+00:01:18,413 --> 00:01:20,525
+people will use these plans.
+
+26
+00:01:20,525 --> 00:01:23,986
+Adobe forecasts a record twenty-one point three
+
+27
+00:01:23,986 --> 00:01:28,331
+billion dollars of buy-now-pay-later spending online, about
+
+28
+00:01:28,331 --> 00:01:31,964
+eight percent of all online holiday spending.
+
+29
+00:01:31,964 --> 00:01:34,017
+The math of one plan is fine.
+
+30
+00:01:34,017 --> 00:01:36,189
+The problem is the math of several.
+
+31
+00:01:38,759 --> 00:01:41,064
+Watch what the checkout page shows you.
+
+32
+00:01:41,064 --> 00:01:42,739
+Not six hundred dollars.
+
+33
+00:01:42,739 --> 00:01:44,871
+It shows one hundred fifty, in big
+
+34
+00:01:44,871 --> 00:01:47,916
+letters, next to the words "zero interest".
+
+35
+00:01:48,686 --> 00:01:50,851
+Your brain compares one-fifty to what's in
+
+36
+00:01:50,851 --> 00:01:52,810
+your account today, not six hundred to
+
+37
+00:01:52,810 --> 00:01:54,676
+what you'll have in six weeks.
+
+38
+00:01:54,676 --> 00:01:56,930
+That's not a trick and it's not illegal;
+
+39
+00:01:56,930 --> 00:01:59,616
+it's just a different number to anchor on.
+
+40
+00:01:59,616 --> 00:02:01,998
+And every store does it separately, so
+
+41
+00:02:01,998 --> 00:02:04,667
+each purchase looks small on its own.
+
+42
+00:02:07,237 --> 00:02:09,542
+Here's a Black Friday basket.
+
+43
+00:02:09,542 --> 00:02:11,465
+A six-hundred-dollar TV.
+
+44
+00:02:11,465 --> 00:02:13,564
+A two-hundred-dollar coat.
+
+45
+00:02:13,564 --> 00:02:15,819
+Three hundred twenty dollars of gifts.
+
+46
+00:02:15,819 --> 00:02:18,910
+Two-hundred-eighty-dollar headphones.
+
+47
+00:02:18,910 --> 00:02:21,889
+Total: fourteen hundred dollars.
+
+48
+00:02:22,659 --> 00:02:25,265
+On their own, the installments feel
+
+49
+00:02:25,265 --> 00:02:28,638
+small: one-fifty, fifty, eighty, seventy.
+
+50
+00:02:28,638 --> 00:02:31,209
+Now put the four plans on one timeline.
+
+51
+00:02:31,209 --> 00:02:34,507
+Today you pay three hundred fifty dollars.
+
+52
+00:02:34,507 --> 00:02:37,492
+Two weeks later, another three-fifty.
+
+53
+00:02:37,492 --> 00:02:38,586
+Then another.
+
+54
+00:02:38,586 --> 00:02:39,710
+Then another.
+
+55
+00:02:40,480 --> 00:02:43,516
+That's three hundred fifty dollars leaving your account
+
+56
+00:02:43,516 --> 00:02:45,944
+every two weeks for six weeks, roughly seven
+
+57
+00:02:45,944 --> 00:02:48,151
+hundred dollars a month, on top of rent,
+
+58
+00:02:48,151 --> 00:02:50,844
+groceries and everything already scheduled.
+
+59
+00:02:50,844 --> 00:02:52,356
+Nothing is hidden.
+
+60
+00:02:52,356 --> 00:02:55,019
+But each checkout only shows its own number,
+
+61
+00:02:55,019 --> 00:02:57,850
+and nobody shows the total on one screen.
+
+62
+00:02:58,620 --> 00:03:00,685
+Now look at it from payday.
+
+63
+00:03:00,685 --> 00:03:02,798
+Say you're paid every two weeks and you
+
+64
+00:03:02,798 --> 00:03:05,503
+take home two thousand dollars per paycheck.
+
+65
+00:03:05,503 --> 00:03:08,434
+Three hundred fifty dollars of every paycheck
+
+66
+00:03:08,434 --> 00:03:11,163
+is already spoken for, for six weeks.
+
+67
+00:03:11,163 --> 00:03:14,209
+That's seventeen and a half percent of your pay,
+
+68
+00:03:14,209 --> 00:03:18,620
+gone before rent, before groceries, before anything you planned.
+
+69
+00:03:19,390 --> 00:03:23,115
+It matters because many users have little slack:
+
+70
+00:03:23,115 --> 00:03:28,470
+in LendingTree's 2026 report, fifty-four percent of buy-now-pay-later
+
+71
+00:03:28,470 --> 00:03:31,574
+users said they wouldn't be able to make
+
+72
+00:03:31,574 --> 00:03:34,252
+ends meet without these loans.
+
+73
+00:03:36,822 --> 00:03:39,116
+That brings us to the number in the title.
+
+74
+00:03:39,116 --> 00:03:42,330
+In LendingTree's March 2026 survey of more than
+
+75
+00:03:42,330 --> 00:03:47,049
+two thousand U.S. consumers, forty-seven percent of buy-now-pay-later
+
+76
+00:03:47,049 --> 00:03:49,647
+users said they had paid late at least
+
+77
+00:03:49,647 --> 00:03:51,472
+once in the past year.
+
+78
+00:03:51,472 --> 00:03:54,480
+That's up from forty-one percent in 2025
+
+79
+00:03:54,480 --> 00:03:57,839
+and thirty-four percent the year before.
+
+80
+00:03:58,609 --> 00:04:01,389
+There is nuance: seventy-two percent of late
+
+81
+00:04:01,389 --> 00:04:03,979
+payers said their latest late payment was
+
+82
+00:04:03,979 --> 00:04:05,942
+about a week late or less.
+
+83
+00:04:05,942 --> 00:04:08,300
+But a short delay can still cost money.
+
+84
+00:04:08,300 --> 00:04:11,297
+Late fees, and the limits on them, differ
+
+85
+00:04:11,297 --> 00:04:14,075
+by provider and by state, so check the
+
+86
+00:04:14,075 --> 00:04:17,757
+late-fee line in your plan before you confirm.
+
+87
+00:04:17,757 --> 00:04:20,136
+A missed payment can also pause your account.
+
+88
+00:04:20,136 --> 00:04:23,089
+The bigger risk usually isn't the fee.
+
+89
+00:04:23,089 --> 00:04:25,036
+It's how people cover the payment.
+
+90
+00:04:27,606 --> 00:04:30,009
+When a payment is due and the checking
+
+91
+00:04:30,009 --> 00:04:32,539
+account is short, the easiest move is to
+
+92
+00:04:32,539 --> 00:04:34,630
+cover it with a credit card.
+
+93
+00:04:34,630 --> 00:04:37,845
+That's where zero percent quietly becomes nineteen
+
+94
+00:04:37,845 --> 00:04:41,187
+point seven one percent, Bankrate's national average
+
+95
+00:04:41,187 --> 00:04:44,015
+credit card rate as of November fourth.
+
+96
+00:04:44,015 --> 00:04:46,352
+New card offers average close to
+
+97
+00:04:46,352 --> 00:04:50,062
+twenty-four percent, according to LendingTree.
+
+98
+00:04:50,832 --> 00:04:51,809
+Let's run it.
+
+99
+00:04:51,809 --> 00:04:54,341
+Say the whole six hundred dollars ends up on
+
+100
+00:04:54,341 --> 00:04:57,135
+a card at nineteen point seven one percent.
+
+101
+00:04:57,135 --> 00:04:59,882
+Pay fifty dollars a month, and it takes
+
+102
+00:04:59,882 --> 00:05:04,358
+fourteen months and about seventy-four dollars of interest.
+
+103
+00:05:04,358 --> 00:05:08,373
+Pay twenty-five dollars a month, and it takes thirty-one
+
+104
+00:05:08,373 --> 00:05:11,456
+months, more than two and a half years, and
+
+105
+00:05:11,456 --> 00:05:15,319
+about one hundred sixty-nine dollars of interest.
+
+106
+00:05:16,089 --> 00:05:17,926
+Here's another way to see it.
+
+107
+00:05:17,926 --> 00:05:20,673
+At nineteen point seven one percent, six
+
+108
+00:05:20,673 --> 00:05:23,215
+hundred dollars on a card costs about
+
+109
+00:05:23,215 --> 00:05:26,076
+thirty-two cents of interest per day.
+
+110
+00:05:26,076 --> 00:05:27,533
+It sounds like nothing.
+
+111
+00:05:27,533 --> 00:05:30,549
+But at twenty-five dollars a month, you'd
+
+112
+00:05:30,549 --> 00:05:33,859
+pay about seven hundred sixty-nine dollars in
+
+113
+00:05:33,859 --> 00:05:36,710
+total for a six-hundred-dollar TV.
+
+114
+00:05:37,480 --> 00:05:38,441
+Same TV.
+
+115
+00:05:38,441 --> 00:05:40,317
+Zero interest on day one.
+
+116
+00:05:40,317 --> 00:05:42,835
+Up to a hundred sixty-nine dollars
+
+117
+00:05:42,835 --> 00:05:44,888
+of interest by the end.
+
+118
+00:05:45,658 --> 00:05:48,843
+And this is happening while card balances are
+
+119
+00:05:48,843 --> 00:05:51,602
+already at a record: one point two nine
+
+120
+00:05:51,602 --> 00:05:54,858
+trillion dollars in the third quarter of 2026,
+
+121
+00:05:54,858 --> 00:05:57,331
+according to the New York Fed.
+
+122
+00:05:59,901 --> 00:06:03,376
+To be fair, pay-in-four isn't always a bad deal.
+
+123
+00:06:03,376 --> 00:06:05,696
+Compare it with putting the same TV on
+
+124
+00:06:05,696 --> 00:06:08,214
+a card you can't pay off right away.
+
+125
+00:06:08,214 --> 00:06:10,910
+Paid on time, the plan costs zero.
+
+126
+00:06:10,910 --> 00:06:12,970
+On the card, at fifty dollars a
+
+127
+00:06:12,970 --> 00:06:16,710
+month, it's about seventy-four dollars of interest.
+
+128
+00:06:17,480 --> 00:06:18,907
+So the plan can be the
+
+129
+00:06:18,907 --> 00:06:21,756
+cheaper option, under three conditions.
+
+130
+00:06:21,756 --> 00:06:25,070
+The money for every installment already exists; it's
+
+131
+00:06:25,070 --> 00:06:27,621
+just not all in your account today.
+
+132
+00:06:27,621 --> 00:06:29,887
+It's one plan, not four.
+
+133
+00:06:29,887 --> 00:06:31,843
+And the payments come out of checking
+
+134
+00:06:31,843 --> 00:06:33,588
+with a buffer, so a late paycheck
+
+135
+00:06:33,588 --> 00:06:35,682
+doesn't turn into a late payment.
+
+136
+00:06:38,252 --> 00:06:39,768
+So here's the test.
+
+137
+00:06:39,768 --> 00:06:42,329
+Three questions before you click "pay later".
+
+138
+00:06:42,329 --> 00:06:44,373
+One: could I pay the full price today
+
+139
+00:06:44,373 --> 00:06:47,400
+from my checking account without touching a card?
+
+140
+00:06:47,400 --> 00:06:51,433
+If not, the plan isn't saving money; it's borrowing.
+
+141
+00:06:51,433 --> 00:06:55,426
+Two: what is already scheduled on those same dates?
+
+142
+00:06:55,426 --> 00:06:57,316
+Put every open plan on one
+
+143
+00:06:57,316 --> 00:06:59,307
+list, not in four apps.
+
+144
+00:06:59,307 --> 00:07:01,667
+Three: if one payment slipped, where
+
+145
+00:07:01,667 --> 00:07:03,692
+would the money come from?
+
+146
+00:07:03,692 --> 00:07:06,452
+If the honest answer is "my credit card", you
+
+147
+00:07:06,452 --> 00:07:09,807
+now know the real interest rate on this purchase.
+
+148
+00:07:10,577 --> 00:07:13,433
+Let's run the test on our Black Friday basket.
+
+149
+00:07:13,433 --> 00:07:15,159
+Fourteen hundred dollars.
+
+150
+00:07:15,159 --> 00:07:17,413
+Could you pay it today without a card?
+
+151
+00:07:17,413 --> 00:07:18,872
+If the answer is no, the
+
+152
+00:07:18,872 --> 00:07:20,529
+four plans are a loan.
+
+153
+00:07:20,529 --> 00:07:22,090
+What's already scheduled?
+
+154
+00:07:22,090 --> 00:07:24,167
+Three hundred fifty dollars every
+
+155
+00:07:24,167 --> 00:07:26,502
+two weeks, plus everything else.
+
+156
+00:07:26,502 --> 00:07:28,829
+And if one payment slipped, would it land
+
+157
+00:07:28,829 --> 00:07:31,136
+on a card at nearly twenty percent?
+
+158
+00:07:31,136 --> 00:07:33,871
+That's the moment to pause, not to click.
+
+159
+00:07:34,641 --> 00:07:37,781
+If all three answers are comfortable, a short
+
+160
+00:07:37,781 --> 00:07:41,868
+zero-interest plan can be a reasonable cash-flow tool.
+
+161
+00:07:41,868 --> 00:07:43,638
+If they aren't, the price on the
+
+162
+00:07:43,638 --> 00:07:45,868
+screen isn't the price you'll pay.
+
+163
+00:07:48,438 --> 00:07:51,623
+Pay-in-four is interest-free only while
+
+164
+00:07:51,623 --> 00:07:53,984
+every payment is on time.
+
+165
+00:07:53,984 --> 00:07:56,194
+Four small plans can mean hundreds of
+
+166
+00:07:56,194 --> 00:07:59,201
+dollars leaving your account every two weeks.
+
+167
+00:07:59,201 --> 00:08:01,859
+Nearly half of users paid late last year.
+
+168
+00:08:01,859 --> 00:08:04,613
+And if the balance lands on an average
+
+169
+00:08:04,613 --> 00:08:08,092
+credit card, a six-hundred-dollar TV can cost up
+
+170
+00:08:08,092 --> 00:08:11,703
+to about one hundred sixty-nine dollars more.
+
+171
+00:08:12,473 --> 00:08:15,439
+Next, I'll show exactly how credit card interest
+
+172
+00:08:15,439 --> 00:08:18,343
+is calculated, day by day, because that's where
+
+173
+00:08:18,343 --> 00:08:21,443
+many Black Friday balances end up in January.
+
+174
+00:08:21,443 --> 00:08:23,256
+Sources are in the description.
+
+175
+00:08:23,256 --> 00:08:26,524
+This is education, not financial advice.
+
+176
+00:08:26,524 --> 00:08:29,812
+Subscribe if you want the math before the decision.
+
